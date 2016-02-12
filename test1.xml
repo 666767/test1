@@ -1,1 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="movement_forward" id="31" x="211" y="51">
+    <next>
+      <block type="movement_leftmotor" id="42" inline="true"></block>
+    </next>
+  </block>
+</xml>
